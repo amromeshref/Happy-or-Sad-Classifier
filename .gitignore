@@ -11,7 +11,7 @@ data/
 my data/data.zip
 my data/happy
 my data/sad
-my data/data.npy
+my data/data.npy 
 my data/test_data.npy
 my data/train_data.npy
 .Python
