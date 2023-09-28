@@ -6,13 +6,15 @@
 - I created an app that classifies happy and sad humans.
 - The app takes an input image from a webcam then it classifies it.
 
-<div align="center">
-<img src= "images/happy.png" style="width:600px;height:600;">
+
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/happy.jpg" width="45%">
+    <img src="images/sad.jpg" width="45%">
 </div>
 
-<div align="center">
-<img src= "images/sad.png" style="width:600px;height:600;">
-</div>
+
+
 
 ### Table of Contents
 - [Data Collection](#Data-Collection)
