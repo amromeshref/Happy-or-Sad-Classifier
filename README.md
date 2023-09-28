@@ -7,11 +7,11 @@
 - The app takes an input image from a webcam then it classifies it.
 
 <div align="center">
-<img src= "happy.png" style="width:600px;height:600;">
+<img src= "images/happy.png" style="width:600px;height:600;">
 </div>
 
 <div align="center">
-<img src= "sad.png" style="width:600px;height:600;">
+<img src= "images/sad.png" style="width:600px;height:600;">
 </div>
 
 ### Table of Contents
