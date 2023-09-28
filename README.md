@@ -30,11 +30,11 @@
 ## How to Install
 1. Create a directory in your device.
 2. Click on "<> Code"
-div align="center">
+<div align="center">
 <img src= "images/code.png" style="width:600px;height:600;">
 </div> 
 3. Copy the url of this repository.
-div align="center">
+<div align="center">
 <img src= "images/url.png" style="width:600px;height:600;">
 </div> 
 4. Go to the directory you created and type this command to clone this repository:
