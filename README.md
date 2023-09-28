@@ -9,8 +9,8 @@
 
 <div align="center">
 <div style="display: flex;">
-    <img src="images/happy.png" style="width:400px;height:400;" style="margin-right: 50px;">
-    <img src="images/sad.png" style="width:400px;height:400;" style="margin-left: 50px;">
+    <img src="images/happy.png" style="width:400px;height:400;" style="margin-right: 250px;">
+    <img src="images/sad.png" style="width:400px;height:400;" style="margin-left: 250px;">
 </div>
 
 
