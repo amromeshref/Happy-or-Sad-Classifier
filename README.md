@@ -30,13 +30,17 @@
 ## How to Install
 1. Create a directory in your device.
 2. Click on "<> Code"
+   
 <div align="center">
 <img src= "images/code.png" style="width:400px;height:400;">
 </div> 
+
 3. Copy the url of this repository.
+   
 <div align="center">
 <img src= "images/url.png" style="width:400px;height:400;">
 </div> 
+
 4. Go to the directory you created and type this command to clone this repository:
     ```bash
     git clone "url you copied"
