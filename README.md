@@ -4,7 +4,7 @@
 #### Description:
 
 - I created an app that classifies happy and sad humans.
-- The app takes an input image from a webcam then it classifies it.
+- The app takes an input image from a webcam then it classifies this image.
   
 <div align="center">
 <img src="images/happy.png" style="width:400px;height:600;">
