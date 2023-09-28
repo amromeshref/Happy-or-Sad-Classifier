@@ -64,10 +64,11 @@ class CamApp(App):
 
         # Getting the input image
         ret, frame = self.capture.read()
-        print(frame.shape)
 
         # Preprocessing the input image
         input_image = self.image_transformation(frame)
+        
+         # Predicting
         y_hat = self.model.predict(input_image)
         y_hat = tf.nn.sigmoid(y_hat)
         happy = False
