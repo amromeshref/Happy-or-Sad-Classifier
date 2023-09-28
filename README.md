@@ -9,8 +9,8 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="images/happy.jpg" width="45%">
-    <img src="images/sad.jpg" width="45%">
+    <img src="images/happy.png" width="45%">
+    <img src="images/sad.png" width="45%">
 </div>
 
 
