@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 data/
+my data/data.zip
 my data/happy
 my data/sad
 my data/data.npy
