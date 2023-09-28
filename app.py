@@ -75,7 +75,7 @@ class CamApp(App):
         if(y_hat[0] >= 0.5):
             happy = True
         
-        self.check_label.text = "You are HAPPY!" if happy else "You are SAD"
+        self.check_label.text = "You are HAPPY!" if happy else "You are SAD!"
 
 if __name__ == '__main__':
     CamApp().run()
