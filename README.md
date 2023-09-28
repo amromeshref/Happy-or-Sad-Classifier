@@ -19,10 +19,10 @@
 ## Data Collection
 
 - I collected images from two databases: Facial Expressions Training Data, and Google Images.
-- You can download the data I used from: 
+- You can download the data I used from: https://www.kaggle.com/datasets/amromeshref/happy-or-sad-classifier
 
 - Facial Expressions Training Data:
-    - I collected only happy and sad images from this data set
+    - I collected only happy and sad images from this data set.
     - Download Link: https://www.kaggle.com/datasets/noamsegal/affectnet-training-data
 - Google Images:
     - I just searched for happy and sad images and downloaded them.
