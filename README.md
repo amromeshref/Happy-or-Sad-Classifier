@@ -8,6 +8,9 @@
   
 <div align="center">
 <img src="images/happy.png" style="width:400px;height:600;">
+</div>
+
+<div align="center">
 <img src="images/sad.png" style="width:400px;height:600;">
 </div>
 
