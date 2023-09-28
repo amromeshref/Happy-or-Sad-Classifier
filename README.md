@@ -8,9 +8,9 @@
 
 
 <div align="center">
-<div style="display: flex; justify-content: space-between;">
-    <img src="images/happy.png" width="45%">
-    <img src="images/sad.png" width="45%">
+<div style="display: flex;">
+    <img src="images/happy.png" style="width:600px;height:600;" style="margin-right: 10px;">
+    <img src="images/sad.png" style="width:600px;height:600;" style="margin-left: 10px;">
 </div>
 
 
