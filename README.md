@@ -7,7 +7,7 @@
 - The app takes an input image from a webcam then it classifies it.
 
 
-
+<div align="center">
 <div style="display: flex; justify-content: space-between;">
     <img src="images/happy.png" width="45%">
     <img src="images/sad.png" width="45%">
